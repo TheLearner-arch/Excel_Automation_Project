@@ -40,8 +40,8 @@ This was the starting point of the project.
 ## 🐍 Step 2: Python Automation
 <img width="816" height="518" alt="Kaggle1" src="https://github.com/user-attachments/assets/55f5d153-e248-41f3-ba1f-93242805913e" />
 
-After printing 14 rows of column `Order Date` we see the differnce in formatt of the date/time of each element.
-The elements stored as '12-06-2019' are the correct formatt of date/time because they give **TRUE** to ISTEXT() in Excel whereas others give **FALSE**
+After printing 14 rows of column `Order Date` we see the difference in formatt of the date/time of each element.
+-The elements stored as '12-06-2019' are the correct formatt of date/time because they give **TRUE** to ISTEXT() in Excel whereas others give **FALSE**.
 
 
 The `Order Date` column had mixed formats:  
@@ -54,7 +54,14 @@ Python scripts standardized all values automatically, ensuring consistency acros
 ---
 
 ## 🔄 Step 3: Power Query Automation
-![Power Query GIF](link-to-your-gif)
+
+Initial Dataset without december worksheet
+<img width="1918" height="360" alt="PowerQuery" src="https://github.com/user-attachments/assets/2d4de8b2-1b13-4c04-9deb-9e23197696a5" />
+
+---
+Dataset after adding december worksheet
+<img width="1910" height="290" alt="PowerQuery2" src="https://github.com/user-attachments/assets/78ad5283-d14e-47d5-b14c-80c53439a0bf" />
+
 
 Initially, the dataset was missing December → fewer rows in the combined table.  
 By simply **adding December’s file into the source folder** and refreshing, Power Query automatically updated the dataset with new rows.  
