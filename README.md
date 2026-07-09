@@ -4,6 +4,15 @@
 
 ---
 
+## 𝄜 Final Dashboard Excel File
+This is my excel file containting the dashboard [Ecommerce DashBoard.xlsx](https://github.com/user-attachments/files/29235151/Ecommerce.DashBoard.xlsx)
+
+---
+
+## Steps of reaching the final dashboard
+
+---
+
 ## 🌀 Step 1: Messy Dataset
 ![Dirty Dataset GIF](link-to-your-gif)
 
