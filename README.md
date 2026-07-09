@@ -17,6 +17,7 @@ This is my excel file containting the dashboard [Ecommerce DashBoard.xlsx](https
 BLANK ROWS
 <img width="1030" height="470" alt="Gish" src="https://github.com/user-attachments/assets/3d34f097-a31d-4ed5-9f5a-40e6ca6bcf67" />
 
+---
 
 DUPLICATE ROWS WITH STRING VALUES
 
@@ -26,6 +27,10 @@ DUPLICATE ROWS WITH STRING VALUES
 
 <img width="1032" height="132" alt="Blank2" src="https://github.com/user-attachments/assets/211cb0c0-2b4e-402b-a77d-a4ffe351924e" />
 
+---
+
+INCONSISTENT DATE/TIME FORMAT(STRING+DATE/TIME MIXED)
+<img width="706" height="420" alt="DateTime" src="https://github.com/user-attachments/assets/3104e026-7858-4c5d-8ffc-e9a1d61068fb" />
 
 Raw monthly sales files contained **duplicates, blanks, and inconsistent date/time formats**.  
 This was the starting point of the project.
