@@ -39,7 +39,9 @@ This was the starting point of the project.
 
 ## 🐍 Step 2: Python Automation
 
-<img width="694" height="530" alt="Kaggle2" src="https://github.com/user-attachments/assets/de69f55b-04e6-4a87-93ad-12af0cc3c78c" />
+<img width="828" height="382" alt="Kaggle" src="https://github.com/user-attachments/assets/93455409-302b-4c79-ae5c-aff9fdb7a057" />
+After printing 6 rows of column `Order Date` we see the differnce in formatt of the date/time
+Except the element at 2 all others are string which is confirmed by type() function.
 
 
 
