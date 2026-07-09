@@ -15,7 +15,8 @@ This is my excel file containting the dashboard [Ecommerce DashBoard.xlsx](https
 
 ## 🌀 Step 1: Messy Dataset
 BLANK ROWS
-<img width="1044" height="558" alt="tEsT1" src="https://github.com/user-attachments/assets/58e14ec0-fc1f-4424-ae1e-30633582ea69" />
+<img width="1030" height="470" alt="Gish" src="https://github.com/user-attachments/assets/3d34f097-a31d-4ed5-9f5a-40e6ca6bcf67" />
+
 
 DUPLICATE ROWS WITH STRING VALUES
 
