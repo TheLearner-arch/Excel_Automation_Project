@@ -6,6 +6,7 @@
 
 ## 𝄜 Final Dashboard Excel File
 This is my excel file containting the dashboard--> [Project2_Electronic_Sales_copy.xlsx](https://github.com/user-attachments/files/29854359/Project2_Electronic_Sales_copy.xlsx)
+
 (This dataset is for demonstration purposes only. Please do not reuse commercially.)
 
 ---
