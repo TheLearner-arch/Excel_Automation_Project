@@ -19,9 +19,13 @@ BLANK ROWS
 
 
 DUPLICATE ROWS WITH STRING VALUES
+
 <img width="1034" height="132" alt="Blank1" src="https://github.com/user-attachments/assets/9a034aa4-4b99-4a2f-911d-2714199a9d26" />
+
 ---
-![Uploading Blank2.gif…]()
+
+<img width="1032" height="132" alt="Blank2" src="https://github.com/user-attachments/assets/211cb0c0-2b4e-402b-a77d-a4ffe351924e" />
+
 
 Raw monthly sales files contained **duplicates, blanks, and inconsistent date/time formats**.  
 This was the starting point of the project.
