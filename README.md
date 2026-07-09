@@ -71,14 +71,25 @@ No manual linking required.
 
 ## 📊 Step 4: Dashboard Before & After
 **Before December added:**  
-![Dashboard Before GIF](link-to-your-gif)
+<img width="1850" height="520" alt="image" src="https://github.com/user-attachments/assets/462f6684-2a34-4a87-9bf5-3564603f9104" />
+
 
 **After December added:**  
-![Dashboard After GIF](link-to-your-gif)
+<img width="1860" height="507" alt="image" src="https://github.com/user-attachments/assets/abe566fc-2769-4636-b0d8-625a1b92bfc5" />
+
 
 The dashboard updated seamlessly with new totals, KPIs, and charts — proving the workflow was fully automated.
 
 ---
+
+## 🎥 Video Demo of the Final Project
+
+
+https://github.com/user-attachments/assets/cdd3b046-9a49-4f4b-a59c-38a166ec65ee
+
+
+
+
 
 ## 🧠 Learning Outcomes
 - Handling messy datasets with blanks & duplicates  
