@@ -60,7 +60,7 @@ Initial Dataset without december worksheet
 
 ---
 Dataset after adding december worksheet
-<img width="1910" height="290" alt="PowerQuery2" src="https://github.com/user-attachments/assets/78ad5283-d14e-47d5-b14c-80c53439a0bf" />
+<img width="1918" height="270" alt="PowerQuery3" src="https://github.com/user-attachments/assets/f10f7690-df4c-41df-bb5e-ac4bace959aa" />
 
 
 Initially, the dataset was missing December → fewer rows in the combined table.  
