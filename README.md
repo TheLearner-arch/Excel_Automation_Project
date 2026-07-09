@@ -5,7 +5,8 @@
 ---
 
 ## 𝄜 Final Dashboard Excel File
-This is my excel file containting the dashboard [Ecommerce DashBoard.xlsx](https://github.com/user-attachments/files/29235151/Ecommerce.DashBoard.xlsx)
+This is my excel file containting the dashboard--> [Project2_Electronic_Sales_copy.xlsx](https://github.com/user-attachments/files/29854359/Project2_Electronic_Sales_copy.xlsx)
+(This dataset is for demonstration purposes only. Please do not reuse commercially.)
 
 ---
 
@@ -84,11 +85,7 @@ The dashboard updated seamlessly with new totals, KPIs, and charts — proving t
 
 ## 🎥 Video Demo of the Final Project
 
-
 https://github.com/user-attachments/assets/cdd3b046-9a49-4f4b-a59c-38a166ec65ee
-
-
-
 
 
 ## 🧠 Learning Outcomes
@@ -100,5 +97,6 @@ https://github.com/user-attachments/assets/cdd3b046-9a49-4f4b-a59c-38a166ec65ee
 ---
 
 ## 🔗 Links
-- [Final Dataset Excel File](link-to-your-file)  
+- [Linkein Post][Sales_December_clean_2019.xlsx](https://github.com/user-attachments/files/29854417/Sales_December_clean_2019.xlsx)
+
 - [GitHub Repository](link-to-your-repo)  
