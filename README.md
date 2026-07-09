@@ -39,8 +39,8 @@ This was the starting point of the project.
 
 ## 🐍 Step 2: Python Automation
 
+<img width="694" height="530" alt="Kaggle2" src="https://github.com/user-attachments/assets/de69f55b-04e6-4a87-93ad-12af0cc3c78c" />
 
-https://github.com/user-attachments/assets/c2e0f34c-a665-4b24-81e0-65b08fd247aa
 
 
 
