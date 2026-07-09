@@ -14,12 +14,12 @@ This is my excel file containting the dashboard [Ecommerce DashBoard.xlsx](https
 ---
 
 ## 🌀 Step 1: Messy Dataset
-BLANK ROWS
+**BLANK ROWS**
 <img width="1030" height="470" alt="Gish" src="https://github.com/user-attachments/assets/3d34f097-a31d-4ed5-9f5a-40e6ca6bcf67" />
 
 ---
 
-DUPLICATE ROWS WITH STRING VALUES
+**DUPLICATE ROWS WITH STRING VALUES**
 
 <img width="1034" height="132" alt="Blank1" src="https://github.com/user-attachments/assets/9a034aa4-4b99-4a2f-911d-2714199a9d26" />
 
@@ -29,7 +29,7 @@ DUPLICATE ROWS WITH STRING VALUES
 
 ---
 
-INCONSISTENT DATE/TIME FORMAT(STRING+DATE/TIME MIXED)
+**INCONSISTENT DATE/TIME FORMAT(STRING+DATE/TIME MIXED)**
 <img width="706" height="420" alt="DateTime" src="https://github.com/user-attachments/assets/3104e026-7858-4c5d-8ffc-e9a1d61068fb" />
 
 Raw monthly sales files contained **duplicates, blanks, and inconsistent date/time formats**.  
