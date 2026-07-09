@@ -14,7 +14,11 @@ This is my excel file containting the dashboard [Ecommerce DashBoard.xlsx](https
 ---
 
 ## 🌀 Step 1: Messy Dataset
-![Dirty Dataset GIF](link-to-your-gif)
+BLANK ROWS
+<img width="1044" height="558" alt="tEsT1" src="https://github.com/user-attachments/assets/58e14ec0-fc1f-4424-ae1e-30633582ea69" />
+
+DUPLICATE ROWS WITH STRING VALUES
+
 
 Raw monthly sales files contained **duplicates, blanks, and inconsistent date/time formats**.  
 This was the starting point of the project.
