@@ -38,7 +38,7 @@ This was the starting point of the project.
 ---
 
 ## 🐍 Step 2: Python Automation
-![Uploading Kaggle1.gif…]()
+<img width="816" height="518" alt="Kaggle1" src="https://github.com/user-attachments/assets/55f5d153-e248-41f3-ba1f-93242805913e" />
 
 After printing 14 rows of column `Order Date` we see the differnce in formatt of the date/time of each element.
 The elements stored as '12-06-2019' are the correct formatt of date/time because they give **TRUE** to ISTEXT() in Excel whereas others give **FALSE**
